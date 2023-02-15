@@ -1,0 +1,1218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2012v2.1">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2013-11-13T15:16:28-06:00</Timestamp>
+    <TaxPeriodEndDate>2012-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ERNST &amp; YOUNG LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>111 MONUMENT CIRCLE STE 2600</AddressLine1>
+        <City>INDIANAPOLIS</City>
+        <State>IN</State>
+        <ZIPCode>462045120</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2012-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>133783732</EIN>
+      <Name>
+        <BusinessNameLine1>Healthfirst PHSP Inc</BusinessNameLine1>
+      </Name>
+      <InCareOfName>% MARYBETH TITA</InCareOfName>
+      <NameControl>HEAL</NameControl>
+      <Phone>2128016000</Phone>
+      <USAddress>
+        <AddressLine1>100 CHURCH ST FL 18</AddressLine1>
+        <AddressLine2>Suite</AddressLine2>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>100072601</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARYBETH TITA</Name>
+      <Title>SVP/CFO</Title>
+      <Phone>2128016000</Phone>
+      <DateSigned>2013-11-12</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>CHRISTOPHER BOGGS</Name>
+      <Phone>2127733000</Phone>
+    </Preparer>
+    <TaxYear>2012</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO">
+      <NameOfPrincipalOfficerPerson>PATRICIA J WANG</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>100 CHURCH ST FL 18</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>100072601</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>2466155427</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.HEALTHFIRSTNY.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1994</YearFormation>
+      <StateLegalDomicile>NY</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO IMPROVE THE HEALTH AND WELL-BEING OF UNDERSERVED POPULATIONS BY PROVIDING COMPREHENSIVE PREPAID HEALTHCARE COVERAGE TO MEDICAID, CHILD HEALTH PLUS AND FAMILY HEALTH PLUS RECIPIENTS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>5</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>3</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>1709235704</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>2462763165</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>2239456</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>3392262</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>2186</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>1711477346</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>2466155427</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>0</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>0</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>1728069509</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>2466103551</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>1728069509</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>2466103551</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-16592163</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>51876</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>495534814</TotalAssetsBOY>
+      <TotalAssetsEOY>605495403</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>327250004</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>403472200</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>168284810</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>202023203</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>TO IMPROVE THE HEALTH AND WELL-BEING OF UNDERSERVED POPULATIONS BY PROVIDING COMPREHENSIVE PREPAID HEALTHCARE COVERAGE TO MEDICAID, CHILD HEALTH PLUS AND FAMILY HEALTH PLUS RECIPIENTS.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>2179000543</Expense>
+      <Revenue>2210430711</Revenue>
+      <Description>MEDICAID MANAGED CARE: HEALTHFIRST PHSP, INC. (PHSP) IS A LICENSED PREPAID HEALTH SERVICES PLAN THAT PROVIDES COMPREHENSIVE PREPAID HEALTH CARE COVERAGE TO MEDICAID RECIPIENTS PURSUANT TO ARTICLE 44 OF THE NEW YORK STATE PUBLIC HEALTH LAW. PHSP HAS PARTICIPATED IN NEW YORK'S MEDICAID PROGRAM SINCE OCTOBER 1994. FOR 2012 THERE WERE 498,502 MEMBERS ENROLLED IN PHSP'S MEDICAID PLAN. PHSP'S NETWORK INCLUDES 77 REGIONAL HOSPITALS THAT PROVIDE SERVICES TO MEMBERS.</Description>
+      <Activity2>
+        <Expense>193831672</Expense>
+        <Revenue>198202570</Revenue>
+        <Description>FAMILY HEALTH PLUS (FHP): HEALTHFIRST PHSP, INC. (PHSP) IS A LICENSED PREPAID HEALTH SERVICES PLAN THAT PROVIDES COMPREHENSIVE PREPAID HEALTH CARE COVERAGE TO FHP RECIPIENTS PURSUANT TO ARTICLE 44 OF THE NEW YORK STATE PUBLIC HEALTH LAW. PHSP HAS PARTICIPATED IN NEW YORK'S FHP PROGRAM SINCE 1997. FOR 2012 THERE WERE 53,848 MEMBERS ENROLLED IN PHSP'S FHP PLAN. PHSP'S NETWORK INCLUDES 90 REGIONAL HOSPITALS THAT PROVIDE SERVICES TO MEMBERS.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>49775220</Expense>
+        <Revenue>54129884</Revenue>
+        <Description>CHILD HEALTH PLUS (CHP) HEALTHFIRST PHSP, INC. (PHSP) IS A LICENSED PREPAID HEALTH SERVICES PLAN THAT PROVIDES COMPREHENSIVE PREPAID HEALTH CARE COVERAGE TO CHP RECIPIENTS PURSUANT TO ARTICLE 44 OF THE NEW YORK STATE PUBLIC HEALTH LAW. PHSP HAS PARTICIPATED IN NEW YORK'S CHP PROGRAM SINCE 1997. FOR 2012 THERE WERE 39,115 MEMBERS ENROLLED IN PHSP'S CHP PLAN. PHSP'S NETWORK INCLUDES 90 REGIONAL HOSPITALS THAT PROVIDE SERVICES TO MEMBERS.</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>2422607435</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired>false</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <SubjectToProxyTax>false</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="IRS990ScheduleD">false</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="IRS990ScheduleD">false</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="IRS990ScheduleD">false</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="IRS990ScheduleD">false</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="IRS990ScheduleD">false</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="IRS990ScheduleD">true</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="IRS990ScheduleD">false</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="IRS990ScheduleL">false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="IRS990ScheduleL">false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="IRS990ScheduleL">false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="IRS990ScheduleL">false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="IRS990ScheduleL">false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="IRS990ScheduleL">false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="IRS990ScheduleL">true</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity>true</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="IRS990ScheduleR">false</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>10056</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>5</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>3</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>true</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>true</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>false</CompensationProcessCEO>
+      <CompensationProcessOther>false</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>NY</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>MARYBETH TITA</NamePerson>
+        <TelephoneNumber>2128016000</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>100 CHURCH ST FL 18</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>100072601</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <InfoInScheduleOPartVII>X</InfoInScheduleOPartVII>
+      <Form990PartVIISectionA>
+        <NamePerson>JAY A SCHECHTMAN</NamePerson>
+        <Title>CHIEF MEDICAL OFFICER</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>643188</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>87990</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ELIZABETH R ST CLAIR</NamePerson>
+        <Title>SVP/GENERAL COUNSEL</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromRelatedOrgs>607516</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>98003</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>EVELYN DEL ORBE</NamePerson>
+        <Title>COMMUNITY REPRESENTATIVE</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.0</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STEPHEN ROSENTHAL</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.0</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ERIC SCALETTAR</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.0</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DON SCANLON</NamePerson>
+        <Title>DIRECTOR-TERM 9/18/12</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.0</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARYBETH A TITA</NamePerson>
+        <Title>SVP/CHIEF FINANCIAL OFFICER</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <Officer>X</Officer>
+        <ReportableCompFromRelatedOrgs>568105</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>89163</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PATRICIA J WANG</NamePerson>
+        <Title>PRESIDENT/CEO</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <Officer>X</Officer>
+        <ReportableCompFromRelatedOrgs>1410306</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>259553</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DANIEL P MCCARTHY</NamePerson>
+        <Title>EVP/COO</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromRelatedOrgs>823089</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>131391</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KEITH GORDON</NamePerson>
+        <Title>SVP/CHIEF SALES OF-TERM 7/9/12</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromRelatedOrgs>540260</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>41826</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARK E WEGRYN</NamePerson>
+        <Title>VP STRAT MGMT AND IMP</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromRelatedOrgs>358731</ReportableCompFromRelatedOrgs>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DEBORAH E HAMMOND</NamePerson>
+        <Title>VP, MEDICAL DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromRelatedOrgs>349421</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>15000</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARIA E OLIVERI</NamePerson>
+        <Title>VP CHIEF NURSING OFFICER</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromRelatedOrgs>365581</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>42731</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ARUN K BHATIA</NamePerson>
+        <Title>SVP/CIO</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>40.0</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromRelatedOrgs>376278</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>83830</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>6042475</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>849487</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>true</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>EXPRESS SCRIPTS</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>21653 Network Place</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>606731216</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>PHARMACY</DescriptionOfServices>
+        <Compensation>529392685</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>MONTEFIORE MEDICAL CENTER</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO BOX 4296 CHURCH STREET STATION</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10261</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>MEDICAL/HOSPITAL</DescriptionOfServices>
+        <Compensation>99229823</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>DENTAQUEST</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>465 MEDFORD STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>021291454</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>MEDICAL/HOSPITAL</DescriptionOfServices>
+        <Compensation>76651543</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>NYP-COLUMBIA PRESBYTERIAN</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO BOX 6154 CHURCH STREET STATION</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>102496154</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>MEDICAL/HOSPITAL</DescriptionOfServices>
+        <Compensation>40093715</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>MAIMONIDES MEDICAL CENTER</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>948 48TH STREET</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>MEDICAL/HOSPITAL</DescriptionOfServices>
+        <Compensation>43612907</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>1247</NumberOfContractorsGT100K>
+      <TotalContributions>0</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>MEDICAID MANAGED CARE</Description>
+        <BusinessCode>524114</BusinessCode>
+        <TotalRevenueColumn>2210430711</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2210430711</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>FAMILY HEALTH PLUS</Description>
+        <BusinessCode>524114</BusinessCode>
+        <TotalRevenueColumn>198202570</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>198202570</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>CHILD HEALTH PLUS</Description>
+        <BusinessCode>524114</BusinessCode>
+        <TotalRevenueColumn>54129884</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>54129884</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>2462763165</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>3392262</TotalRevenueColumn>
+        <ExclusionAmount>3392262</ExclusionAmount>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <RentalIncomeOrLoss>
+        <Real>0</Real>
+        <Personal>0</Personal>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetRentalIncomeOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <TotalOtherRevenue>0</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>2466155427</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2462763165</RelatedOrExemptFunctionIncome>
+        <ExclusionAmount>3392262</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>0</Total>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>0</Total>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>0</Total>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>0</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>0</Total>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>0</Total>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>159780028</Total>
+        <ProgramServices>116315486</ProgramServices>
+        <ManagementAndGeneral>43464542</ManagementAndGeneral>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>0</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>0</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>54714</Total>
+        <ProgramServices>33002</ProgramServices>
+        <ManagementAndGeneral>21712</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>2924352</Total>
+        <ProgramServices>2924244</ProgramServices>
+        <ManagementAndGeneral>108</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>774643</Total>
+        <ProgramServices>764889</ProgramServices>
+        <ManagementAndGeneral>9754</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>3250559</Total>
+        <ProgramServices>3250559</ProgramServices>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>0</Total>
+      </Occupancy>
+      <Travel>
+        <Total>0</Total>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>0</Total>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>0</Total>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>0</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>0</Total>
+      </Insurance>
+      <OtherExpenses>
+        <Description>HEALTHCARE SERVICE COSTS</Description>
+        <Total>2299180441</Total>
+        <ProgramServices>2299180441</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CLAIMS PROCESSING</Description>
+        <Total>138814</Total>
+        <ProgramServices>138814</ProgramServices>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>2466103551</Total>
+        <ProgramServices>2422607435</ProgramServices>
+        <ManagementAndGeneral>43496116</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>63227977</BOY>
+        <EOY>57131965</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>104279299</BOY>
+        <EOY>178123835</EOY>
+      </AccountsReceivable>
+      <ReceivablesFromOfficersEtc>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </ReceivablesFromOfficersEtc>
+      <ReceivablesFromDisqualPersons>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </ReceivablesFromDisqualPersons>
+      <OtherNotesLoansReceivableNet>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>0</BOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>310759896</BOY>
+        <EOY>348453456</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsOtherSecurities>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </InvestmentsOtherSecurities>
+      <InvestmentsProgramRelated>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </InvestmentsProgramRelated>
+      <IntangibleAssets>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </IntangibleAssets>
+      <OtherAssetsTotal>
+        <BOY>17267642</BOY>
+        <EOY>21786147</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>495534814</BOY>
+        <EOY>605495403</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>311144949</BOY>
+        <EOY>382775486</EOY>
+      </AccountsPayableAccruedExpenses>
+      <GrantsPayable>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </GrantsPayable>
+      <DeferredRevenue>
+        <BOY>430897</BOY>
+        <EOY>449872</EOY>
+      </DeferredRevenue>
+      <TaxExemptBondLiabilities>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </TaxExemptBondLiabilities>
+      <EscrowAccountLiability>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </EscrowAccountLiability>
+      <LoansFromOfficersDirectors>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </LoansFromOfficersDirectors>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <UnsecuredNotesLoansPayable>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </UnsecuredNotesLoansPayable>
+      <OtherLiabilities>
+        <BOY>15674158</BOY>
+        <EOY>20246842</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>327250004</BOY>
+        <EOY>403472200</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>168284810</BOY>
+        <EOY>202023203</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>168284810</BOY>
+        <EOY>202023203</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>495534814</BOY>
+        <EOY>605495403</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>51876</ReconcilationRevenueExpenses>
+      <ReconciliationUnrealizedInvest>814256</ReconciliationUnrealizedInvest>
+      <ReconcilationOtherChanges>32872261</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <FSAuditedBasis>
+        <FinancialStatementBoth>X</FinancialStatementBoth>
+      </FSAuditedBasis>
+      <AuditCommittee>true</AuditCommittee>
+      <FederalGrantAuditRequired>true</FederalGrantAuditRequired>
+      <FederalGrantAuditPerformed>true</FederalGrantAuditPerformed>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>0</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>0</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>0</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>0</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>0</CurrentTaxYear>
+        <Total>0</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>1021061311</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1176018993</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1373305871</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1709235704</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>2462763165</CurrentTaxYear>
+        <Total>7742385044</Total>
+      </GrossReceiptsFromAdmissions>
+      <GrossReceiptsFromNonUBI>
+        <Total>0</Total>
+      </GrossReceiptsFromNonUBI>
+      <TaxRevLeviedForOrgBenefit509>
+        <Total>0</Total>
+      </TaxRevLeviedForOrgBenefit509>
+      <ValueOfSvcsFcltsFurnishdByGovt>
+        <Total>0</Total>
+      </ValueOfSvcsFcltsFurnishdByGovt>
+      <Total509>
+        <CurrentTaxYearMinus4Years>1021061311</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1176018993</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1373305871</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1709235704</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>2462763165</CurrentTaxYear>
+        <Total>7742385044</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>7742385044</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>4685766</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>4314310</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3115511</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>2239456</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3392262</CurrentTaxYear>
+        <Total>17747305</Total>
+      </GrossInvestmentIncome509>
+      <Post1975UBTI>
+        <Total>0</Total>
+      </Post1975UBTI>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>4685766</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>4314310</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3115511</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>2239456</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3392262</CurrentTaxYear>
+        <Total>17747305</Total>
+      </InvestmentIncomeAndUBTI>
+      <NetIncomeFromOtherUBI>
+        <Total>0</Total>
+      </NetIncomeFromOtherUBI>
+      <OtherIncome509>
+        <Total>0</Total>
+      </OtherIncome509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>1025747077</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1180333303</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1376421382</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1711475160</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>2466155427</CurrentTaxYear>
+        <Total>7760132349</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.99771</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.99644</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00229</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00356</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="IRS990ScheduleD">
+      <ArtPublicExhibitionAmts />
+      <HeldWorksOfArtAmts />
+      <CurrentYearMinus3Years />
+      <CurrentYearMinus4Years />
+      <Land />
+      <Buildings />
+      <LeaseholdImprovements />
+      <Equipment />
+      <OtherLandBuildings />
+      <FederalIncomeTaxLiability>0</FederalIncomeTaxLiability>
+      <OtherLiabilities>
+        <Description>DUE TO STATE OF NEW YORK</Description>
+        <Amount>20246842</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>20246842</TotalOfAmounts>
+      <TotRevenueEtcAuditedFinclStmt>2499841944</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>814256</NetUnrealizedGainsInvestments>
+      <OtherRevenues>32872261</OtherRevenues>
+      <RevenueNotRptdF990>33686517</RevenueNotRptdF990>
+      <RevenueSubtotal>2466155427</RevenueSubtotal>
+      <TotalRevenuePerForm990>2466155427</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>2466103551</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesSubtotal>2466103551</ExpensesSubtotal>
+      <TotalExpensesPerForm990>2466103551</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIII>
+        <Identifier>1</Identifier>
+        <ReturnReference>Schedule D PART XI, LINE 2D - OTHER ADJUSTMENTS</ReturnReference>
+        <Explanation>RETAINED HOSPITAL PAYMENTS: 32,872,261. The health care services agreements with certain hospitals provide that payments due to these hospitals, as a health care providers to PHSP Members, attributable to a specified initial period of enrollment of each enrollee, are retained by PHSP. These hospitals may be entitled to have their retained payments refunded in the future, without interest, upon the dissolution of PHSP or similar circumstances, subject to any restrictions by the State of New York, as detailed in such agreement. Retained payments required to be withheld by PHSP totaled $32,872,261</Explanation>
+      </Form990ScheduleDPartXIII>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ">
+      <SeverancePayment>true</SeverancePayment>
+      <SupplementalNonqualRetirePlan>true</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>false</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>false</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>false</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>false</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>false</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>false</AnyNonFixedPayments>
+      <InitialContractException>false</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>JAY A SCHECHTMAN</NamePerson>
+        <Title>CHIEF MEDICAL OFFICER</Title>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>402318</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>157865</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>83005</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>87990</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>15151</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>746329</TotalCompensationRelatedOrgs>
+        <CompReportPrior990RelatedOrgs>81929</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>ELIZABETH R ST CLAIR</NamePerson>
+        <Title>SVP/GENERAL COUNSEL</Title>
+        <CompBasedOnRelatedOrgs>400424</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>149088</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>58004</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>98003</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>9949</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>715468</TotalCompensationRelatedOrgs>
+        <CompReportPrior990RelatedOrgs>53790</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>MARYBETH A TITA</NamePerson>
+        <Title>SVP/CHIEF FINANCIAL OFFICER</Title>
+        <CompBasedOnRelatedOrgs>358360</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>147029</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>62716</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>89163</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>14262</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>671530</TotalCompensationRelatedOrgs>
+        <CompReportPrior990RelatedOrgs>61426</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>PATRICIA J WANG</NamePerson>
+        <Title>PRESIDENT/CEO</Title>
+        <CompBasedOnRelatedOrgs>732748</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>402190</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>275368</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>259553</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>8871</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>1678730</TotalCompensationRelatedOrgs>
+        <CompReportPrior990RelatedOrgs>272531</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>DANIEL P MCCARTHY</NamePerson>
+        <Title>EVP/COO</Title>
+        <CompBasedOnRelatedOrgs>518880</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>220860</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>83349</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>131391</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>15361</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>969841</TotalCompensationRelatedOrgs>
+        <CompReportPrior990RelatedOrgs>79484</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>KEITH GORDON</NamePerson>
+        <Title>SVP/CHIEF SALES OF-TERM 7/9/12</Title>
+        <CompBasedOnRelatedOrgs>174564</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>92138</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>273558</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>41826</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>5885</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>587971</TotalCompensationRelatedOrgs>
+        <CompReportPrior990RelatedOrgs>122733</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>MARK E WEGRYN</NamePerson>
+        <Title>VP STRAT MGMT AND IMP</Title>
+        <CompBasedOnRelatedOrgs>228899</CompBasedOnRelatedOrgs>
+        <OtherCompensationRelatedOrgs>129832</OtherCompensationRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>14262</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>372993</TotalCompensationRelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>DEBORAH E HAMMOND</NamePerson>
+        <Title>VP, MEDICAL DIRECTOR</Title>
+        <CompBasedOnRelatedOrgs>276701</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>70911</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>1809</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>15000</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>10190</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>374611</TotalCompensationRelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>MARIA E OLIVERI</NamePerson>
+        <Title>VP CHIEF NURSING OFFICER</Title>
+        <CompBasedOnRelatedOrgs>217578</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>59091</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>88912</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>42731</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>5062</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>413374</TotalCompensationRelatedOrgs>
+        <CompReportPrior990RelatedOrgs>87551</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>JOHN CHENG</NamePerson>
+        <Title>VP, CHIEF MARKETING OFFICER</Title>
+        <CompBasedOnRelatedOrgs>256048</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>88217</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>1688</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>15000</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>15151</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>376104</TotalCompensationRelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>ARUN K BHATIA</NamePerson>
+        <Title>SVP/CIO</Title>
+        <CompBasedOnRelatedOrgs>331674</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>43619</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>985</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>83830</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>13551</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>473659</TotalCompensationRelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>1</Identifier>
+        <ReturnReference>SCHEDULE J, PART 1, LINE 4A</ReturnReference>
+        <Explanation>THE FOLLOWING INDIVIDUALS ENTERED INTO SEVERANCE AGREEMENTS AND/OR RECEIVED SEVERANCE PAYMENTS FROM HF MANAGEMENT SERVICES, LLC - A RELATED ORGANIZATION: KEITH GORDON TOTAL OF SEVERANCE AGREEMENT IN 2012: 306,425 SEVERANCE PAID IN 2012: 140,248 SEVERANCE DEFERRED TO 2013: 166,177</Explanation>
+      </Form990ScheduleJPartIII>
+      <Form990ScheduleJPartIII>
+        <Identifier>2</Identifier>
+        <ReturnReference>SCHEDULE J, PART 1, LINE 4B</ReturnReference>
+        <Explanation>THE FOLLOWING INDIVIDUALS PARTICIPATED IN THE NON-QUALIFIED RETIREMENT PLAN PROVIDED BY HF MANAGEMENT SERVICES, LLC - A RELATED ORGANIZATION. THE AMOUNTS BELOW REPRESENT CONTRIBUTIONS FROM THE PLAN SPONSOR FOR 2012. Patrica J. Wang 244,553. [Col. C] Daniel P. McCarthy 116,391. [Col. C] Elizabeth R. St Clair 83,003. [Col. C] Jay A. Schechtman 72,990. [Col. C] Marybeth A. Tita 74,163. [Col. C] Arun k. Bhatia 68,830. [Col. C] Maria E. Oliveri 26,826. [Col. C] Keith Y. Gordon 26,826. [Col. C]</Explanation>
+      </Form990ScheduleJPartIII>
+      <Form990ScheduleJPartIII>
+        <Identifier>3</Identifier>
+        <ReturnReference>SCHEDULE J, PART 1, LINE 6B</ReturnReference>
+        <Explanation>A PORTION OF THE BONUS COMPENSATION RECEIVED BY OFFICERS AND KEY EMPLOYEES OF THE ORGANIZATION IS CONTINGENT UPON THE NET EARNINGS OF HF MANAGEMENT SERVICES, LLC - A RELATED ORGANIZATION.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleL documentId="IRS990ScheduleL">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>HF MANAGEMENT SERVICES LLC</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>COMMON OFFICERS/DIRECTORS</Relationship>
+        <AmountOfTransaction>159780028</AmountOfTransaction>
+        <DescriptionOfTransaction>MANAGEMENT AND ADMIN SERVICES</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <GeneralExplanation>
+        <Identifier>1</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION A, LINE 3</ReturnReference>
+        <Explanation>HEALTHFIRST PHSP, INC. (PHSP) CONTRACTS WITH HF MANAGEMENT SERVICES, LLC (HFMS) TO PROVIDE ALL OF ITS MANAGEMENT AND ADMINISTRATIVE SERVICES. PHSP DOES NOT MAINTAIN ITS OWN STAFF OR OFFICE SPACE; THESE ARE PROVIDED BY HFMS. HFMS CHARGES A PERCENT OF PREMIUM ON A PER MEMBER PER MONTH BASIS OR A FLAT FEE PER MEMBER PER MONTH. THE ARRANGEMENT IS APPROVED BY RESOLUTION OF THE BOARD OF DIRECTORS AND THE NY STATE DEPARTMENT OF HEALTH.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>2</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION A, LINE 6</ReturnReference>
+        <Explanation>HEALTHFIRST PHSP, INC. IS A NEW YORK STATE NOT-FOR-PROFIT MEMBERSHIP CORPORATION. HEALTHFIRST PHSP'S SOLE CORPORATE MEMBER IS HEALTHFIRST, INC.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>3</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION A, LINE 7A</ReturnReference>
+        <Explanation>HEALTHFIRST PHSP, INC. (PHSP) IS A NEW YORK STATE NOT-FOR-PROFIT MEMBERSHIP CORPORATION. HEALTHFIRST PHSP'S SOLE CORPORATE MEMBER IS HEALTHFIRST, INC. HEALTHFIRST, INC. HAS THE RIGHT TO APPOINT MEMBERS TO THE BOARD OF DIRECTORS OF PHSP.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>4</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION A, LINE 7B</ReturnReference>
+        <Explanation>THE AMENDMENT OF THE ORGANIZATION'S GOVERNING DOCUMENTS IS SUBJECT TO THE APPROVAL OF HEALTHFIRST, INC. SOME OF THE DECISIONS OF THE GOVERNING BODY, SHOULD THEY OCCUR, ARE SUBJECT TO APPROVAL BY STATE REGULATORS: * DISTRIBUTION OF THE ORGANIZATION'S NET ASSETS * CERTAIN CHANGES TO PREMIUM RATES * EXPANSION TO OTHER MANAGED CARE BUSINESSES * SPECIFIC TYPES OF CHANGES TO THE ORGANIZATION'S BENEFIT PLANS * MANAGEMENT FEE RATE CHANGES [APPROVAL IS ALSO REQUIRED FROM THE MANAGEMENT COMPANY]</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>5</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 11B</ReturnReference>
+        <Explanation>THE 990 IS PREPARED BY THE HF MANAGEMENT SERVICES, LLC (HFMS) CORPORATE FINANCE DEPARTMENT STAFF AND THEN REVIEWED BY THE HFMS VICE PRESIDENT CONTROLLER. SECONDARY REVIEWS ARE ALSO PERFORMED BY THE HFMS GENERAL COUNSEL AND CHIEF FINANCIAL OFFICER. THE DRAFT 990 IS THEN REVIEWED BY AN INDEPENDENT ACCOUNTING FIRM. THE DRAFT 990 IS THEN PRESENTED TO THE BOARD OF DIRECTORS FOR REVIEW AND THE DIRECTORS ARE GIVEN AN OPPORTUNITY TO DISCUSS THE 990 AT A MEETING. THE FINAL 990 IS SUBMITTED AFTER THE BOARD OF DIRECTORS REVIEWS IT.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>6</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>A CONFLICT OF INTEREST DISCLOSURE STATEMENT IS COMPLETED ANNUALLY BY EACH BOARD MEMBER, OFFICER AND KEY EMPLOYEE. EACH BOARD MEMBER, OFFICER AND KEY EMPLOYEE IS GIVEN A COPY OF THE DISCLOSURE STATEMENT TO COMPLETE ON AN ANNUAL BASIS. A MEMBER WHO DOES NOT COMPLETE THE STATEMENT IS NOT ALLOWED TO ATTEND BOARD MEETINGS AND MAY BE REMOVED FROM THE BOARD. AN OFFICER OR KEY EMPLOYEE WHO DOES NOT COMPLETE THE STATEMENT WILL BE DISCIPLINED, UP TO TERMINATION FROM THE POSITION. ANY DISCLOSURE OF A CONFLICT OR POTENTIAL CONFLICT IS REVIEWED BY THE CHIEF COMPLIANCE OFFICER. CONFLICTS ARE ADDRESSED BY EXAMINING THE RELATIONSHIP OF THE INDIVIDUAL TO THE ORGANIZATION AND THE NATURE OF THE DISCLOSURE. A REPORT OF ANY CONFLICTS IS PREPARED FOR DISCUSSION WITH AUDIT AND COMPLIANCE COMMITTEE OF THE BOARD OF DIRECTORS OF HEALTHFIRST, INC., THE NOT FOR PROFIT CORPORATE PARENT, AS WELL AS THE FULL BOARD OF DIRECTORS OF HEALTHFIRST PHSP, INC. AS APPROPRIATE, ACTION IS TAKEN, INCLUDING BUT NOT LIMITED TO DISCLOSURE AND RECUSAL FROM DECISION MAKING, MODIFICATIONS TO BUSINESS AGREEMENTS, CHANGES IN VENDORS OR REPLACEMENT OF THE DIRECTOR, OFFICER OR KEY EMPLOYEE WITH A NON-CONFLICTED INDIVIDUAL.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>7</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>BECAUSE THE REPORTING ORGANIZATION DID NOT COMPENSATE ANY OFFICER OR EMPLOYEE, THE REPORTING ORGANIZATION HAS RESPONDED "NO." HOWEVER, THE COMPENSATION OF THE CEO, OTHER OFFICERS AND KEY EMPLOYEES IS DETERMINED BY THE COMPENSATION COMMITTEE OF HF MANAGEMENT SERVICES, LLC (A RELATED ORGANIZATION). THE COMMITTEE CONSISTS ONLY OF INDEPENDENT DIRECTORS. THE PROCESS FOR DETERMINING COMPENSATION IS DESCRIBED IN THE COMMITTEES CHARTER. THE PROCESS INCLUDES ENGAGEMENT OF AN OUTSIDE HUMAN RESOURCES CONSULTING FIRM TO CONDUCT A COMPARABILITY ANALYSIS. THE ANALYSIS INCLUDES COMPARABLE RANGES OF EXECUTIVE COMPENSATION USING THE COMPANY'S INDUSTRY CLASSIFICATION. THE COMMITTEE MEETS PRIOR TO IMPLEMENTATION OF ANY CHANGE IN COMPENSATION. CONTEMPORANEOUS MINUTES OF EACH MEETING ARE PREPARED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>8</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE ORGANIZATION MAKES ITS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS AVAILABLE TO THE GENERAL PUBLIC BY PROVIDING COPIES ON REQUEST FOR INSPECTION AT ITS CORPORATE OFFICES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>9</Identifier>
+        <ReturnReference>FORM 990, PART VII, SECTION A</ReturnReference>
+        <Explanation>ALL OFFICERS, KEY EMPLOYEES, AND HIGHEST COMPENSATED EMPLOYEES WERE PAID BY, AND WORKED 40 HOURS A WEEK FOR HF MANAGEMENT SERVICES, LLC (A RELATED ORGANIZATION) WHICH PROVIDES MANAGEMENT SERVICES FOR MULTIPLE ENTITIES. NO ALLOCATION OF TIME SPENT ON INDIVIDUAL NOT FOR PROFIT ENTITIES EXISTED FOR THE PERIOD COVERED BY THIS RETURN. NONE OF THE INDIVIDUALS LISTED EARNED ANY COMPENSATION FROM THE NOT-FOR-PROFIT ENTITY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>10</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 9 OTHER CHANGES IN NET ASSETS</ReturnReference>
+        <Explanation>RETAINED HOSPITAL PAYMENTS: 32,872,261.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>11</Identifier>
+        <ReturnReference>FORM 990, PART XII, LINE 2C</ReturnReference>
+        <Explanation>THE SELECTION OF THE INDEPENDENT AUDITOR IS ADMINISTERED BY THE AUDIT AND COMPLIANCE COMMITTEE OF THE BOARD OF DIRECTORS OF HEALTHFIRST, INC. (A RELATED ORGANIZATION).</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>MANAGED HEALTH INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>100 CHURCH ST FL 18</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10007</ZIPCode>
+        </AddressUS>
+        <EIN>113029569</EIN>
+        <PrimaryActivities>MANAGED CARE</PrimaryActivities>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <ExemptCodeSection>501 (C)4</ExemptCodeSection>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>HEALTHFIRST</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>true</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>HEALTHFIRST INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>100 CHURCH ST FL 18</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10007</ZIPCode>
+        </AddressUS>
+        <EIN>133714932</EIN>
+        <PrimaryActivities>MANAGED CARE</PrimaryActivities>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <ExemptCodeSection>501 (C)3</ExemptCodeSection>
+        <PublicCharityStatus>11 Type I</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>false</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>HEALTHFIRST HEALTH PLAN OF NJ INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1 WASHINGTON ST STE 1405</AddressLine1>
+          <City>NEWARK</City>
+          <State>NJ</State>
+          <ZIPCode>07102</ZIPCode>
+        </AddressUS>
+        <EIN>510609967</EIN>
+        <PrimaryActivities>MANAGED CARE</PrimaryActivities>
+        <LegalDomicileState>NJ</LegalDomicileState>
+        <ExemptCodeSection>501 (C)4</ExemptCodeSection>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>HF MGMT SVCS</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>true</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SENIOR HEALTH PARTNERS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>100 CHURCH STREET 18FL</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10007</ZIPCode>
+        </AddressUS>
+        <EIN>134103882</EIN>
+        <PrimaryActivities>MGD LT CARE</PrimaryActivities>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <ExemptCodeSection>501 (C)3</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>HF MGMT SVCS</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>true</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartIII>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>HF MANAGEMENT SERVICES LLC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>100 CHURCH ST FL 18</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>100072601</ZIPCode>
+        </AddressUS>
+        <EIN>134069806</EIN>
+        <PrimaryActivity>3RD PTY ADM S</PrimaryActivity>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <PredominantIncomeType>RELATED</PredominantIncomeType>
+        <DisproportionateAllocations>false</DisproportionateAllocations>
+        <CodeVAmount>0</CodeVAmount>
+        <GeneralOrManagingPartner>false</GeneralOrManagingPartner>
+      </Form990ScheduleRPartIII>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>HF ADMINISTRATIVE SERVICES INC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>100 CHURCH ST FL 18</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>100072601</ZIPCode>
+        </AddressUS>
+        <EIN>133873482</EIN>
+        <PrimaryActivity>3RD PTY ADM S</PrimaryActivity>
+        <LegalDomicileState>NY</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>HF MGMT SVCS</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <TypeOfEntity>C CORP</TypeOfEntity>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>false</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>true</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>true</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>false</SharingOfFacilities>
+      <SharingOfPaidEmployees>false</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>false</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>true</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>HEALTHFIRST INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>E</TransactionType>
+        <AmountInvolved>40000000</AmountInvolved>
+        <MethodOfAmtDetermination>AMT AVAILABLE</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>HF MANAGEMENT SERVICES LLC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>M</TransactionType>
+        <AmountInvolved>159780028</AmountInvolved>
+        <MethodOfAmtDetermination>CONTRACTED RATE</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>MANAGED HEALTH INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>S</TransactionType>
+        <AmountInvolved>5600000</AmountInvolved>
+        <MethodOfAmtDetermination>CONTRACT</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <Form990ScheduleRPartVII>
+        <Identifier>1</Identifier>
+        <ReturnReference>FORM 990, SCHEDULE R, PART V, LINE 2</ReturnReference>
+        <Explanation>METHOD OF DETERMINING AMOUNT INVOLVED ITEM (1): THE AMOUNT REPRESENTS THE AVAILABLE BALANCE OF THE LINE OF CREDIT. ANY AMOUNTS DRAWN ARE GUARANTEED BY HEALTHFIRST, INC. THERE WERE NO AMOUNTS OUTSTANDING AT DECEMBER 31, 2012. ITEM (2): THE AMOUNT REPRESENTS THE EXPENSES INCURRED AND PAID OR DUE TO THE RELATED ORGANIZATION FOR SERVICES RENDERED BASED ON CONTRACTED RATES APPROVED BY RESOLUTION OF THE BOARD OF DIRECTORS AND BY STATE REGULATORS. ITEMS (3) AND (4): IN ACCORDANCE WITH THE ORGANIZATION'S CONTRACTUAL ARRANGEMENTS WITH HOSPITALS , RISK-SHARING POOL BALANCES IN PHSP MAY BE OFFSET BY OR MAY BE USED TO OFFSET A PERCENTAGE OF THE SAME HOSPITAL(S)RISK-SHARING POOL BALANCE IN MHI THROUGH AN INTERCOMPANY TRANSFER. THE CURRENT POLICIES PERMIT THE OFFSETTING OF ANY DEFICITS THAT MAY ACCRUE FOR A HOSPITAL, OR ITS AFFILIATE INSTITUTIONS, WITH UP TO 100% OF SURPLUSES THAT MAY ACCRUE.</Explanation>
+      </Form990ScheduleRPartVII>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

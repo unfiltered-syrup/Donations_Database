@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2011v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2012-10-02T20:51:01-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MITCHELL &amp; TITUS LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>ONE BATTERY PARK PLAZA</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10004</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2011-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>203881590</EIN>
+      <Name>
+        <BusinessNameLine1>THE KRAFT FOODS FOUNDATION</BusinessNameLine1>
+      </Name>
+      <InCareOfName>% RICHARD ERICKSON</InCareOfName>
+      <NameControl>KRAF</NameControl>
+      <Phone>8476463947</Phone>
+      <USAddress>
+        <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+        <City>NORTHFIELD</City>
+        <State>IL</State>
+        <ZIPCode>60093</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Richard Erickson</Name>
+      <Title>Director Accounting Services</Title>
+      <Phone>8476463947</Phone>
+      <DateSigned>2012-09-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>FREDERICK DAVIS</Name>
+      <Phone>2127094500</Phone>
+    </Preparer>
+    <TaxYear>2011</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>33041934</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>18000385</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>21886</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>21886</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>18022271</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>21886</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <TaxesRevAndExpnss>219</TaxesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>219</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>35616911</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>15915101</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>35617130</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>15915101</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-17594859</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>21886</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>14485148</CashBOY>
+        <CashEOY>15041934</CashEOY>
+        <CashEOYFMV>15041934</CashEOYFMV>
+        <PledgesReceivable>18000000</PledgesReceivable>
+        <PledgesReceivableBOY>18000000</PledgesReceivableBOY>
+        <PledgesReceivableEOY>18000000</PledgesReceivableEOY>
+        <PledgesReceivableEOYFMV>18000000</PledgesReceivableEOYFMV>
+        <TotalAssetsBOY>32485148</TotalAssetsBOY>
+        <TotalAssetsEOY>33041934</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>33041934</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>385</AccountsPayableBOY>
+        <AccountsPayableEOY>219</AccountsPayableEOY>
+        <GrantsPayableBOY>1550000</GrantsPayableBOY>
+        <GrantsPayableEOY>19701811</GrantsPayableEOY>
+        <TotalLiabilitiesBOY>1550385</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>19702030</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>30934763</UnrestrictedBOY>
+        <UnrestrictedEOY>13339904</UnrestrictedEOY>
+        <TotalNetAssetsBOY>30934763</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>13339904</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>32485148</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>33041934</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>30934763</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-17594859</ExcessOfRevenueOverExpenses>
+        <Subtotal>13339904</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>13339904</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses />
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>9414356</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>12059108</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.780684</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>8180174</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>0</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.0</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>906031</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>0</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.0</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>1069055</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>0</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.0</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>1099000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>0</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.0</DistributionRatioYear5>
+        <TotalDistributionRatio>0.780684</TotalDistributionRatio>
+        <AverageDistributionRatio>0.156137</AverageDistributionRatio>
+        <NetNoncharitableAssets>14542088</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>2270558</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>219</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>2270777</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>15915101</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>219</InvestmentIncomeExciseTax>
+        <Subtotal>219</Subtotal>
+        <TaxBasedOnInvestmentIncome>219</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>219</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8">false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8">false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8">false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.KRAFTFOODSCOMPANY.COM</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>RICHARD ERICKSON</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8476463947</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>THREE LAKES DRIVE</AddressLine1>
+          <City>NORTHFIELD</City>
+          <State>IL</State>
+          <ZIPCode>60093</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARC S FIRESTONE</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT AND DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NICOLE R ROBINSON</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT AND DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>30.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CAROL J WARD</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT AND SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHLEEN J MCKENNA</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>ASSISTANT TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JULIAN SKIRZIPAN</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>ASSISTANT TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPH KLAUKE</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>COUNSEL</Title>
+          <AvgHoursPerWkDevotedToPosition>0.2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES PORTNOY</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>COUNSEL</Title>
+          <AvgHoursPerWkDevotedToPosition>0.2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CYNTHIA P YEATMAN</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT AND DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BONITA B PAYNTER</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>ASSISTANT TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CLAUDIA TEMPLE</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>ASSISTANT TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Kim Harris Jones</PersonName>
+          <USAddress>
+            <AddressLine1>THREE LAKES DRIVE NF-132</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </USAddress>
+          <Title>vp, Treasurer and Controller</Title>
+          <AvgHoursPerWkDevotedToPosition>0.1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>SEE ATTACHMENT 5</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>14763541</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>14763541</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>14763541</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>221453</CashDeemedCharitable>
+        <NetNoncharitableAssets>14542088</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>727104</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>727104</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>219</TaxBasedOnInvestmentIncome>
+        <TotalTax>219</TotalTax>
+        <DistributableAmountBeforeAdj>726885</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>726885</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>726885</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>15915101</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>15915101</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>219</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>15914882</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>726885</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <PriorYear1>2009</PriorYear1>
+        <PriorYear2>2008</PriorYear2>
+        <PriorYear3>2007</PriorYear3>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>1099000</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>1069055</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>906031</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>8180776</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>8812171</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>20067033</TotalExcessDistriCarryover>
+        <QualifyingDistributions>15915101</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToCurrentYear>726885</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>15188216</RemainingDistriFromCorpus>
+        <TotalCorpus>35255249</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>1099000</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>34156249</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>1069055</ExcessFromYear4>
+        <ExcessFromYear3>906031</ExcessFromYear3>
+        <ExcessFromYear2>8180776</ExcessFromYear2>
+        <ExcessFromYear1>8812171</ExcessFromYear1>
+        <ExcessFromCurrentYear>15188216</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEE ATTACHMENT 6</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>203 N Lasalle ST Ste 1900</AddressLine1>
+            <City>Chicago</City>
+            <State>IL</State>
+            <ZIPCode>60601</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SEE ATTACHMENT 6</PurposeOfGrantOrContribution>
+          <Amount>15915101</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>15915101</TotGrantOrContriPaidDuringYear>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>see attachment 7</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>352 Park Ave South 12th FL</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10010</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>see attachment 7</PurposeOfGrantOrContribution>
+          <Amount>20153538</Amount>
+        </GrantOrContriApprovedForFuture>
+        <TotGrantOrContriApprovedFuture>20153538</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>21886</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII />
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry />
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>21886</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>21886</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>KRAFT FOODS GLOBAL INC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>THREE LAKES DRIVE</AddressLine1>
+          <City>NORTHFIELD</City>
+          <State>IL</State>
+          <ZIPCode>60039</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>18000385</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <ContractorCompensationExpln documentId="ContractCompenExpln" />
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+  </ReturnData>
+</Return>
