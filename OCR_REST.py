@@ -13,12 +13,9 @@ LicenseCode = '91CD2400-B36A-4FAE-8AD9-8E3E80D8B902'
 UserName =  'JW6058'
 
 try:
-	import requests
+        import requests
 except ImportError:
-	print("You need the requests library to be installed in order to use this sample.")
-	print("Run 'pip install requests' to fix it.")
-
-	exit()
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "requests"])
 
 
 """
